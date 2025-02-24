@@ -10,13 +10,13 @@ document.addEventListener("DOMContentLoaded", function() {
         { name: "Tace", description: "Black Handbag", price: "$10", image: "https://i5.walmartimages.com/asr/0825109f-84c8-4607-a5c1-d35719ca6ee6.1b75dcdcfb7aa4813d54c8bed646eefb.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff" },
         { name: "Product 2", description: "Lip Gloss", price: "$20", image: "https://i.pinimg.com/736x/33/18/12/3318120e77af6618408936a9c3b955e7.jpg" },
         { name: "Product 3", description: "Brown Leather bag", price: "$30", image: "https://lumiaccessories.com/wp-content/uploads/2017/10/JOHAN_281MH221TOF_72_1-1024x1024.jpg" },
-        { name: "Product 4", description: "Description for Product 4", price: "$40", image: "https://via.placeholder.com/150" },
-        { name: "Product 5", description: "Description for Product 5", price: "$50", image: "https://via.placeholder.com/150" },
-        { name: "Product 6", description: "Description for Product 6", price: "$60", image: "https://via.placeholder.com/150" },
-        { name: "Product 7", description: "Description for Product 7", price: "$70", image: "https://via.placeholder.com/150" },
-        { name: "Product 8", description: "Description for Product 8", price: "$80", image: "https://via.placeholder.com/150" },
-        { name: "Product 9", description: "Description for Product 9", price: "$90", image: "https://via.placeholder.com/150" },
-        { name: "Product 10", description: "Description for Product 10", price: "$100", image: "https://via.placeholder.com/150" }
+        // { name: "Product 4", description: "Description for Product 4", price: "$40", image: "https://via.placeholder.com/150" },
+        // { name: "Product 5", description: "Description for Product 5", price: "$50", image: "https://via.placeholder.com/150" },
+        // { name: "Product 6", description: "Description for Product 6", price: "$60", image: "https://via.placeholder.com/150" },
+        // { name: "Product 7", description: "Description for Product 7", price: "$70", image: "https://via.placeholder.com/150" },
+        // { name: "Product 8", description: "Description for Product 8", price: "$80", image: "https://via.placeholder.com/150" },
+        // { name: "Product 9", description: "Description for Product 9", price: "$90", image: "https://via.placeholder.com/150" },
+        // { name: "Product 10", description: "Description for Product 10", price: "$100", image: "https://via.placeholder.com/150" }
     ];
 
     // Function to filter products based on search input
